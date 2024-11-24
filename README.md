@@ -174,5 +174,5 @@ Example Scenarios
 Submission Details
 ------------------
 
-`- **Repository**: [GitHub Repo URL](#)
-- **Hosted Endpoint**: [https://bitespeed-gah2.onrender.com/identify](https://bitespeed-gah2.onrender.com/identify)`
+- **Repository**: [GitHub Repo URL](#)
+- **Hosted Endpoint**: [https://bitespeed-gah2.onrender.com/identify](https://bitespeed-gah2.onrender.com/identify)
